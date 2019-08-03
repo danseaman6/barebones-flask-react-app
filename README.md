@@ -9,10 +9,10 @@ Built using https://github.com/rwieruch/minimal-react-webpack-babel-setup
 ## Run Locally
 
 1. Clone this repo: `git clone git@github.com:danseaman6/barebones_flask_react_app.git`
-2. npm install
+2. `npm install`
 3. npm run dev (or `npm run start` on a separate terminal if you want webpack to rebuild when your React code changes)
-4. pip install -r requirements.txt
-5. python server.py
+4. `pip install -r requirements.txt`
+5. `python server.py`
 6. Go to http://localhost:3000
 
 ## Dependencies
