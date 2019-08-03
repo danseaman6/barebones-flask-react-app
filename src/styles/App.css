@@ -1,0 +1,16 @@
+html, body {
+  --main-bg-color: #CDCDCD;
+  margin:0;
+  padding:0;
+  background-color: var(--main-bg-color);
+}
+
+#root {
+  background-color: var(--main-bg-color);
+}
+
+.App {
+    text-align: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
