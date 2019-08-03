@@ -17,3 +17,7 @@ If you would like to have webpack rebuild your javascript any time your React co
 ## Dependencies
  * NPM
  * Python
+
+
+## Included
+ * React Bootstrap: 
