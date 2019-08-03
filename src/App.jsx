@@ -5,7 +5,7 @@ import wretch from "wretch";
 import PropTypes from "prop-types";
 
 const App = ({ title }) => (
-  <Container>
+  <Container className="App">
     <h1>{title}</h1>
     <h2>Edit App.jsx to get started</h2>
   </Container>
