@@ -20,4 +20,8 @@ If you would like to have webpack rebuild your javascript any time your React co
 
 
 ## Included
- * React Bootstrap: 
+ * [React Bootstrap](https://react-bootstrap.github.io/): styled component library
+ * [PropTypes](https://www.npmjs.com/package/prop-types): runtime type checking
+ * [Wretch](https://github.com/elbywan/wretch): intuitive fetch wrapper
+ * [ESLint](https://www.npmjs.com/package/eslint-config-airbnb): AirBnB's widely accepted JS linting rules
+ * [Prettier](https://prettier.io/): code formatter 
