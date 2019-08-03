@@ -20,9 +20,21 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "install-peerdeps": "^1.10.2",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.10",
     "react-dom": "^16.8.6",
     "wretch": "^1.5.4"
-  }
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
