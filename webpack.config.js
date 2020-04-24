@@ -23,6 +23,9 @@ module.exports = {
         path: __dirname + '/static',
         filename: 'bundle.js'
     },
+    plugins: [
+        new webpack.HotModuleReplacementPlugin()
+    ],
     devServer: {
     contentBase: './static',
     hot: true
